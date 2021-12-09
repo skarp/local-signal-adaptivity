@@ -1,0 +1,7 @@
+absl-py
+numpy
+pandas
+tensorflow-datasets
+jax
+jaxlib
+neural-tangents
